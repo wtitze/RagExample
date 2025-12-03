@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai # For embeddings 
+langchain-google-genai 
+langchain 
+langchain-community 
+chromadb 
+pypdf
+tiktoken # For embeddings 
