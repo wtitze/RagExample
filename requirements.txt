@@ -6,3 +6,4 @@ langchain-community
 chromadb 
 pypdf
 tiktoken # For embeddings 
+langchain-chroma
