@@ -1,4 +1,4 @@
 # rimuovo venv perche' non mi serve farlo vedere
 /venv
 
-# .env (BISOGNEREBBE RIMUOVERLO PER EVITARE CONFLITTI DI API KEY!)
+.env (BISOGNEREBBE RIMUOVERLO PER EVITARE CONFLITTI DI API KEY!)
