@@ -1,10 +1,9 @@
+# requirements.txt
 python-dotenv
-google-generativeai # For embeddings 
-langchain-google-genai 
-langchain 
-langchain-community 
-chromadb 
+langchain
+langchain-core             # Contiene Prompts, Output Parsers e Core Runnables
+langchain-google-genai
+langchain-mongodb
 pypdf
-tiktoken # For embeddings 
-langchain-chroma
-flask
+langchain-community
+langchain-text-splitters
